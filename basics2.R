@@ -141,7 +141,7 @@ ss2<- subset(boll,BO_Collection > 50 & Budget > 70,
 
 
 #############################################################################
-setwd("D:.\CDAC_notes\Module_4_R-Programming\04_R_Programming\Datasets")
+setwd("E:/04_R_Programming/04 R Programming/Datasets")
 
 cars93 <- read.csv("Cars93.csv", stringsAsFactors = T)
 str(cars93)
